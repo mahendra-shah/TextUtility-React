@@ -1,4 +1,14 @@
-# Text Utility App
+# <p align="center"> Text Utility App </p>
+<div align="center"> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license." /> 
+<img src="https://img.shields.io/github/last-commit/mahendra-shah/TextUtility-React?style=for-each-one&label=Last%20Commit" alt="Last Commit"> 
+<img src="https://img.shields.io/github/issues/mahendra-shah/TextUtility-React.svg">
+<img src="https://img.shields.io/github/stars/mahendra-shah/TextUtility-React.svg?style=" />
+<img src="https://img.shields.io/github/forks/mahendra-shah/TextUtility-React.svg?style">
+<img src="https://img.shields.io/github/contributors/mahendra-shah/TextUtility-React" alt="Contributors">
+</div>
+<hr>
+<br>
+
 
 ## 📸 Showcase
 
